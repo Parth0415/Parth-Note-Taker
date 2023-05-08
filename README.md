@@ -34,7 +34,7 @@ node server.js
 
 ## Screenshot
 
-![Challenge 11](./images/screenshot.png)( "Challenge 11")
+![Challenge 11](./images/screenshot.png "Challenge 11")
 
 
 ## Contribution
