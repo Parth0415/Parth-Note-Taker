@@ -30,7 +30,7 @@ node server.js
 
 ## Usage
 
-- To start using the application make sure you deployed that application on live URL.
+- To start using the application make sure you deployed the application [Parth-Note-Taker](https://note-taker-app-by.herokuapp.com/).
 - Once you deployed the app click on "Get Started Button".
 - If you want to create a new note then click on "+" icon located on top-right side of the app.
 - Then it will allow you to edit your Note title and Note text. 
